@@ -10,6 +10,10 @@ $ npm install
 $ npm run start
 ```
 
+## Health Check
+
+To make sure the app in running as expected, you can make a GET request to 
+
 ## Collections
 
 todo
