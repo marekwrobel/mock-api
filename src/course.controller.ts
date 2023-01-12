@@ -20,7 +20,7 @@ export class CourseController {
       new Course(8, 'Title 8', 1673468695234),
       new Course(9, 'Title 9', 1673468695234),
       new Course(10, 'Title 10', 1673468695234),
-      new Course(11, 'Title 11', 1673468709636),
+      new Course(11, 'Title 11 HELLO', 1673468709636),
       new Course(12, 'Title 12', 1673468709636),
     ];
   }
