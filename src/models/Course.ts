@@ -1,10 +1,10 @@
 export class Course {
-  id: number;
+  uuid: number;
   title: string;
   lastUpdated: number;
 
-  constructor(id, title, lastUpdated) {
-    this.id = id;
+  constructor(uuid, title, lastUpdated) {
+    this.uuid = uuid;
     this.title = title;
     this.lastUpdated = lastUpdated;
   }
